@@ -1,13 +1,18 @@
-# MVVMTemplate
+# MVVMTemplatePlugin
+
+## 说明
+<!-- Plugin description -->
+
+基于base库的MVVM的Activity和Fragment创建模板
+
+<!-- Plugin description end -->
 
 ![Build](https://github.com/etenel/MVVMTemplate/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
-## Template
-MVVM的Activity和Fragment创建模板
 
-## Installation
+## 安装
 
 - Using the IDE built-in plugin system:
   
